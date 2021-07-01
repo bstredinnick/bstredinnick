@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a fullstack software engineer from Australia. I work mainly with PHP on the backend.
+I am a fullstack software engineer from Australia. I work mainly with PHP on the backend. I worked in Japan for 10yrs.
 - 🔭 Currently working on a React frontend PWA to connect with a web2py Python backend
 - 🌱 Learning React
 <br>
