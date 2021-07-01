@@ -36,5 +36,6 @@ I am a fullstack software engineer from Australia. I work mainly with PHP on the
 <img align="left" alt="googlecloud" src="https://img.shields.io/badge/googlecloud-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img align="left" alt="tensorflow" src="https://img.shields.io/badge/tensorflow-%23FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <br>
 <br>
